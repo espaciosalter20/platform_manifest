@@ -40,7 +40,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/xiaomi/aries" name="espaciosalter20/android_device_xiaomi_aries" remote="github" revision="android-4.4" />
-  <project path="device/xiaomi/taurus" name="espaciosalter20/android_device_xiaomi_taurus" remote="github" revision="android-4.4" />
+  <project path="device/xiaomi/taurus" name="mitwo-dev/android_device_xiaomi_taurus" remote="github" revision="android-4.4" />
   <project path="kernel/xiaomi/msm8960" name="espaciosalter20/mi2_kernel" remote="github" revision="master" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" />
